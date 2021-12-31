@@ -1,2 +1,2 @@
-# Java-Moblie-SnowChat-
+# Java-Moblie-SnowChat
 Firebase chat
